@@ -1,1 +1,1 @@
-# game_project
+# Arknoid Game using C and openFrameworks
